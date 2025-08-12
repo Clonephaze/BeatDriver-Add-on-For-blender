@@ -1,0 +1,24 @@
+schema_version = "1.0.0"
+
+id = "beatdriver"
+version = "1.0.0"
+type = "add-on"
+name = "BeatDriver"
+tagline = "Animate to Music in Blender"
+maintainer = "Clonephaze"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+blender_version_min = "4.2.0"
+blender_version_max = "5.0.0"
+
+[permissions]
+files = "Reads audio files to process"
+
+[description]
+content = """
+BeatDriver turns any audio file into animation-ready data in Blender.
+It automatically sets up your scene, imports the track, and links it
+to Geometry Nodes for perfectly synced visuals — no manual keyframing required.
+"""
