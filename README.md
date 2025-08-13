@@ -2,8 +2,8 @@
 
 ⚠️ Development Stopped
 
-As of Blender 5.0, native Audio Analysis Nodes have been added, providing the same functionality that this add-on was designed for—only faster, more reliable, and fully integrated.
-Because of this, Beat Driver is now obsolete, and I will no longer be maintaining or updating the project.
+As of Blender 5.0, native Audio Analysis Nodes have been added, providing the same functionality that this add-on was designed for—only faster, more reliable, more configurable, and fully integrated.
+Because of this, BeatDriver is obsolete, and I will no longer be maintaining or updating the project.
 
 The repository will remain available for archival and educational purposes.
 
