@@ -1,5 +1,12 @@
 # BeatDriver
 
+⚠️ Development Stopped
+
+As of Blender 5.0, native Audio Analysis Nodes have been added, providing the same functionality that this add-on was designed for—only faster, more reliable, and fully integrated.
+Because of this, Beat Driver is now obsolete, and I will no longer be maintaining or updating the project.
+
+The repository will remain available for archival and educational purposes.
+
 **Turn any audio file into animation-ready data inside Blender — instantly.**
 
 BeatDriver is a Blender add-on that processes audio into normalized float values, auto-configures your scene for synced playback, and applies a ready-to-use Geometry Nodes modifier so your objects react to music in real time.
